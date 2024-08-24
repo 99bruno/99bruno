@@ -97,7 +97,7 @@
 
 ###
 
-<p align="center">🚀 99brun0 | Software Engineer Extraordinaire<br><br>🔗 Full-stack wizard weaving magic with Python, Django, and all things web.<br>🤖 Building bots that think, apps that click, and systems that just *work*.<br>🛠️ Code alchemist turning caffeine into features, bugs into opportunities.<br>🌌 Dreamer of digital worlds, creator of tomorrow's tech, one commit at a time.<br>🎮 When not coding, you’ll find me leveling up in gym or conquering the next big tech challenge.<br>🌟 Driven by curiosity, powered by innovation, and fueled by endless coffee.<br><br>Let’s code the future together! 🌐💻</p>
+<p align="center">🚀 99bruno | Software Engineer Extraordinaire<br><br>🔗 Full-stack wizard weaving magic with Python, Django, and all things web.<br>🤖 Building bots that think, apps that click, and systems that just *work*.<br>🛠️ Code alchemist turning caffeine into features, bugs into opportunities.<br>🌌 Dreamer of digital worlds, creator of tomorrow's tech, one commit at a time.<br>🎮 When not coding, you’ll find me leveling up in gym or conquering the next big tech challenge.<br>🌟 Driven by curiosity, powered by innovation, and fueled by endless coffee.<br><br>Let’s code the future together! 🌐💻</p>
 
 ###
 
