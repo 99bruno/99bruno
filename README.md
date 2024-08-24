@@ -103,8 +103,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/99bruno/snk/output/snake.svg)
-
 ###
 
 <div align="center">
