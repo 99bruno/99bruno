@@ -103,7 +103,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/<твій_користувацький_ім'я>/snk/output/snake.svg)
+![Snake animation](https://github.com/99bruno/snk/output/snake.svg)
 
 ###
 
