@@ -105,7 +105,6 @@
 
 ###
 
-![Snake animation](https://github.com/99bruno/snk/output/snake.svg)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/99bruno/count.svg?"  />
